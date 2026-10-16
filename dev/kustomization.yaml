@@ -8,7 +8,7 @@ images:
   newTag: 4.0.1-SNAPSHOT
 - name: spring-petclinic
   newName: ghcr.io/samirbouhlel/spring-petclinic
-  newTag: 7febe37be842269b6394ed34b6b7e1c32bea4d57
+  newTag: a25f8c3d56bf8a72b989a16b2041eb15974a1e88
 
 # Référencer la baseline (réutiliser tous les manifests de base/)
 resources:
